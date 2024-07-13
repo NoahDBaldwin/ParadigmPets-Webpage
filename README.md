@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is a website with multiple pages for a fictional pet company. 
+This project is a website with multiple pages for a fictional pet company. In the files section I added the original wireframe that I created for the homepage.
 <br />
 
 
